@@ -1,6 +1,6 @@
 Hey I'm Nilesh Vishwani!
 
-I have worked in the field of Data Science and I'm based in Ontario, Canada.
+I have work in the field of Data Science and I'm based in Ontario, Canada.
 
 Since 2019 I've been living and breathing with Data and creating various machine learning models using Python and R.
 
