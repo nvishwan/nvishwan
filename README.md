@@ -1,4 +1,4 @@
-Hey I'm Nilesh Vishwani!
+Hey I'm Nilesh Vishwani! Thanks for dropping by!
 
 I have work in the field of Data Science and I'm based in Ontario, Canada.
 
@@ -10,5 +10,5 @@ I lose track of time when I watch Sports or if I'm playing outdoor sports. You c
 
 Find me elsewhere on:
 
-https://www.linkedin.com/in/nilesh-vishwani/ \\
+https://www.linkedin.com/in/nilesh-vishwani/                                                                                                                                        
 https://twitter.com/home?lang=en  
