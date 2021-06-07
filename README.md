@@ -10,5 +10,5 @@ I lose track of time when I watch Sports or if I'm playing outdoor sports. You c
 
 Find me elsewhere on:
 
-https://www.linkedin.com/in/nilesh-vishwani/
+https://www.linkedin.com/in/nilesh-vishwani/ \\
 https://twitter.com/home?lang=en  
